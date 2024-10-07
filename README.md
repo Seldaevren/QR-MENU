@@ -16,7 +16,6 @@ This project is a digital restaurant menu built with HTML, CSS, and JavaScript. 
 
 # Preview
 ![](/images/ss1.png)
-![](/images/ss2.png)
 
 # GIF
 ![](/images/qr-menu.gif)
